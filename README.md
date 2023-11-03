@@ -53,7 +53,7 @@ A execução das suítes de testes devem atender aos requisitos apontados no des
 Todos os resultados também são gravados, em tempo de execução, no Banco de Dados.
 
 ### Conclusão
-Toda aplicação, seja ela servidora, web ou mobile, requer uma sólida estrutura de Garantia da Qualidade de Software para garantir que atenda plenamente às necessidades dos usuários. No mundo da tecnologia, o ato de "testar" vai além de mera avaliação; ele assegura que o aplicativo ou site entregue os resultados desejados de acordo com os requisitos estabelecidos. Afinal, são os usuários que tiram proveito da tecnologia implementada, tornando a garantia de qualidade essencial para a sua satisfação.
+Toda aplicação, seja ela servidora, web ou mobile, requer uma sólida estrutura de Qualidade de Software para garantir que atenda plenamente às necessidades dos usuários. No mundo da tecnologia, o ato de "testar" vai além de mera avaliação; ele assegura que o aplicativo ou site entregue os resultados desejados de acordo com os requisitos estabelecidos. Afinal, são os usuários que tiram proveito da tecnologia implementada, tornando a garantia de qualidade essencial para a sua satisfação.
 
 A automação desempenha um papel fundamental nesse processo. Ela não substitui a mão de obra humana, mas aprimora a análise crítica, permitindo a entrega contínua de sistemas de alta qualidade. Em outras palavras, as automatizações são aliadas, não concorrentes, no esforço de aprimorar a excelência dos produtos tecnológicos.
 
