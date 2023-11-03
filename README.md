@@ -45,7 +45,7 @@ Nesse sentido, podemos, por pipeline executada, monitorar os testes que deram fa
 Na aba de Overview do Merge Request também é possível monitorar a pipeline de testes executada em conjunto com o ajuste que está feito e commitado no mesmo MR.
 ![probat1](https://github.com/KaueSMoraes/readme-probat/assets/126820310/45c247c7-425c-47e8-9d46-9ef66940faac)
 
-Por se tratar de uma aplicação servidora, hospedada em hosts Oracle Linux, utilizando "bash", todo o método de integração contínua realizado pelos Runners do GitLab são coordenados scripts de manipulação de pastas, arquivos, e principalmente um arquivo XML gerado com os resultados dos testes do Probat. Esse arquivo é carregado para diretório atual do Gitlab e carregado no merge request pela ferramente de Artefatos, que seguem o padrão de arquivos no formato jUNIT.
+Por se tratar de uma aplicação servidora, hospedada em hosts Oracle Linux, utilizando Bash, todo o método de integração contínua realizado pelos Runners do GitLab são coordenados por scripts de manipulação de pastas, arquivos, e principalmente um arquivo XML gerado com os resultados dos testes do Probat. Esse arquivo é movido para diretório atual do Gitlab e carregado no merge request pela ferramente de Artefatos, que seguem o padrão de arquivos no formato jUNIT.
 
 ![image](https://github.com/KaueSMoraes/readme-probat/assets/126820310/65797229-2d48-4225-968b-905bb2e8fef8)
 
